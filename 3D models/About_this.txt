@@ -1,3 +1,3 @@
 3D Model to couple stethoscope tube to a condenser microphone.
 
-pnoi is a devise that helps in detection and monitoring of asthma. 
+pnoi is a device that helps in detection and monitoring of asthma. 
